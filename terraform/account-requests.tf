@@ -5,7 +5,7 @@ module "account_request_NC" {
     AccountEmail              = "aws.org-dev.root+nc@netcompany.com"
     AccountName               = "DevOrg.NC"
     ManagedOrganizationalUnit = "Sandbox (ou-tp68-smzsc386)"
-    SSOUserEmail              = "aws.org-dev.root+nc@netcompany.com"
+    SSOUserEmail              = "aws.org-dev.root+nc-test@netcompany.com"
     SSOUserFirstName          = "Admin"
     SSOUserLastName           = "User"
   }
