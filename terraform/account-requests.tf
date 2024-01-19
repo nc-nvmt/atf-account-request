@@ -4,7 +4,7 @@ module "account_request_NC" {
   control_tower_parameters = {
     AccountEmail              = "aws.org-dev.root+nc@netcompany.com"
     AccountName               = "DevOrg.NC"
-    ManagedOrganizationalUnit = "Root (r-tp68)"
+    ManagedOrganizationalUnit = "Sandbox (ou-tp68-smzsc386)"
     SSOUserEmail              = "aws.org-dev.root+nc@netcompany.com"
     SSOUserFirstName          = "Admin"
     SSOUserLastName           = "User"
