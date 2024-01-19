@@ -12,7 +12,7 @@ module "account_request_NC" {
 
   account_tags = {
     "ABC:Owner"       = "nvmt@netcompany.com"
-    "ABC:Division"    = "ENT"
+    "ABC:Division"    = "NC"
     "ABC:Environment" = "Dev"
     "ABC:CostCenter"  = "123456"
     "ABC:Vended"      = "true"
